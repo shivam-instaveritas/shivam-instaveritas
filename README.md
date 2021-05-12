@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivam-instaveritas
+- 👋 Hi, I’m @shivam Kesarwani
 - 👀 I’m interested in exploring new things
 - 🌱 I’m currently learning Java
 - 📫 You can reach me at kesri.sk@gmail.com
